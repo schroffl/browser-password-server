@@ -1,0 +1,24 @@
+{
+  "name": "browser-password-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schroffl/browser-password-server.git"
+  },
+  "author": "schroffl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schroffl/browser-password-server/issues"
+  },
+  "homepage": "https://github.com/schroffl/browser-password-server#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "lowdb": "^0.16.2",
+    "mkdirp": "^0.5.1"
+  }
+}
