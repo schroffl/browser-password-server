@@ -1,0 +1,9 @@
+{
+	"UserExists": "User already exists",
+	"UserDoesntExist": "User does not exist",
+	"InternalError": "Internal Error",
+	"EntryExists": "Entry already exists",
+	"EntryDoesntExist": "Entry does not exist",
+	"IncorrectPassword": "Incorrect Password",
+	"InvalidToken": "Invalid Token"
+}
